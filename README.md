@@ -1,2 +1,4 @@
 # GitIntro
-yeet
+yeet 
+Maar dan via kladblok
+HAMLET
